@@ -1,7 +1,7 @@
 '''
 settings.py should begin with:
 
-from defaults import *
+    from defaults import *
 
 followed by overrides of specific settings
 '''
