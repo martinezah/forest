@@ -1,0 +1,5 @@
+#boto
+celery[redis]
+#elasticsearch
+redis
+requests
